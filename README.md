@@ -41,8 +41,12 @@ So T(n) can be expressed as follows<br>
 # Test Cases
 ## Test Case 1
 Array[]={{2, 3}, {12, 30}, {40, 50}, {5, 1}, {12, 10}, {3, 4}}<br>
-Output=The smallest distance is 1.41421
+Output-<br>
+The closest distance of point in array is: 1.41421<br>
+The closest pair of point in array: (12,10) and (12,30)<br>
 
 ## Test Case 2
 Array[]={{4, 1}, {15, 20}, {30, 40}, {8, 4}, {13, 11}, {5, 6}}<br>
-Output=The smallest distance is 3.60555
+Output-<br>
+The closest distance of point in array is: 3.60555<br>
+The closest pair of point in array: (13,11) and (15,20)<br>
