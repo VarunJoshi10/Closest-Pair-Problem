@@ -42,14 +42,20 @@ So T(n) can be expressed as follows<br>
 ## Test Case 1
 Array[]={{2, 3}, {12, 30}, {40, 50}, {5, 1}, {12, 10}, {3, 4}}<br>
 Output-<br>
-The closest distance of point in array is: 1.41421<br>
-The closest pair of point in array: (12,10) and (12,30)<br>
+The closest pair of points are (2,3) and (3,4)<br> 
+The distance between them is 1.41421 units<br>
 
 ## Test Case 2
 Array[]={{4, 1}, {15, 20}, {30, 40}, {8, 4}, {13, 11}, {5, 6}}<br>
 Output-<br>
-The closest distance of point in array is: 3.60555<br>
-The closest pair of point in array: (13,11) and (15,20)<br>
+The closest pair of points are (8,4) and (5,6)<br> 
+The distance between them is 3.60555 units<br>
+
+## Test Case 3
+Array[]={{-2,3}, {3,2}, {5,6}, {7,8}, {-5,-2}, {-7,-6}, {4,5}, {6,3}}<br>
+Output-<br>
+The closest pair of points are (4,5) and (5,6)<br> 
+The distance between them is 1.41421 units
 
 # References
 - https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
