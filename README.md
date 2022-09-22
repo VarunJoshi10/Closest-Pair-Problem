@@ -50,3 +50,6 @@ Array[]={{4, 1}, {15, 20}, {30, 40}, {8, 4}, {13, 11}, {5, 6}}<br>
 Output-<br>
 The closest distance of point in array is: 3.60555<br>
 The closest pair of point in array: (13,11) and (15,20)<br>
+
+# References
+- https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
